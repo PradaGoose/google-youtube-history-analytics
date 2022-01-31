@@ -4,6 +4,8 @@
 <h3>Requirements</h3>
 <ul>
 <li>Python 3.x, Pandas (Run sudo pip3 install -r requirements.txt to install dependencies</li>
+  <li>upgrade pip in pycharm ide using 'python -m pip install --upgrade pip'</li>
+
 <li>A data downloaded from Google History (You can download from <a href="https://takeout.google.com/settings/takeout">Google History</a>)</li>
 <li>Download history for YouTube and Searches. Select None from top and select YouTube and Serches</li>
 </ul>
